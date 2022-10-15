@@ -6,6 +6,13 @@ Lab 5 done by Xiao En (Shawn) Zhang and Boyuan (Jesse) Shao.
 
 ![](images/activity1.png)
 
+**Activities 2-5**
+
+Results Page – Form
+![](images/activity2-5_home.png)
+
+Results Page – Results Table
+![](images/activity2-5_results.png)
 
 # CARTE Education Pathways
 
