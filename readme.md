@@ -1,6 +1,6 @@
 This repo is a clone of 
 https://github.com/nelaturuk/education_pathways. 
-Lab 5 done by Xiao En (Shawn) Zhang and Boyuan (Jesse) Shao.
+Lab 5 done by Xiao En (Shawn) Zhang, Boyuan (Jesse) Shao, and Nicola Lawford from Group 2 - PitCrew.
 
 **Activity 1**
 
