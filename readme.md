@@ -31,7 +31,7 @@ User Story 3.2.1
 User Story 3.4.2
 ![](images/userstory342.png)
 
-![](images/career_explorer_user_story.png)
+![](images/userstory342_frontend.png)
 # CARTE Education Pathways
 
 ## Description
