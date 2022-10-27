@@ -1,6 +1,6 @@
 This repo is a clone of 
 https://github.com/nelaturuk/education_pathways. 
-Lab 5 done by Xiao En (Shawn) Zhang and Boyuan (Jesse) Shao.
+Lab 5 done by Xiao En (Shawn) Zhang, Boyuan (Jesse) Shao, and Nicola Lawford.
 
 **Activity 1**
 
@@ -28,7 +28,10 @@ User Story 3.2.1
 
 ![IMG_1637](https://user-images.githubusercontent.com/59927679/198172697-2076c213-c062-41ed-afe2-e1433a5151cf.jpg)
 
+User Story 3.4.2
+![](images/userstory342.png)
 
+![](images/career_explorer_user_story.png)
 # CARTE Education Pathways
 
 ## Description
