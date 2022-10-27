@@ -14,6 +14,14 @@ Results Page – Form
 Results Page – Results Table
 ![](images/activity2-5_results.png)
 
+**Activity 6**
+
+User Story 3.1.1
+
+![](images/userstory311.png)
+
+![](images/userstory311-frontent.png)
+
 # CARTE Education Pathways
 
 ## Description
