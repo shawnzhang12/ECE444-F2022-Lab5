@@ -22,6 +22,13 @@ User Story 3.1.1
 
 ![](images/userstory311-frontend.png)
 
+User Story 3.2.1
+
+<img width="708" alt="Screenshot 2022-10-26 at 9 53 23 PM" src="https://user-images.githubusercontent.com/59927679/198172662-685ceaa9-7b5d-41eb-b7d0-fecf9b520fd5.png">
+
+![IMG_1637](https://user-images.githubusercontent.com/59927679/198172697-2076c213-c062-41ed-afe2-e1433a5151cf.jpg)
+
+
 # CARTE Education Pathways
 
 ## Description
