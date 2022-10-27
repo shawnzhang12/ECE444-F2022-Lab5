@@ -20,7 +20,7 @@ User Story 3.1.1
 
 ![](images/userstory311.png)
 
-![](images/userstory311-frontent.png)
+![](images/userstory311-frontend.png)
 
 # CARTE Education Pathways
 
